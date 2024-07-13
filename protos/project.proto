@@ -1,0 +1,5 @@
+syntax = "proto3";
+
+package protoproject;
+
+option go_package = "./pkg/grpc";
